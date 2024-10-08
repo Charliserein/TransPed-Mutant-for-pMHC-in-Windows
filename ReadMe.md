@@ -1,5 +1,4 @@
-# TransMut: Automatically optimize mutated peptide program from the Transformer-derived self-attention model to predict peptide and HLA binding
-## webserver: https://issubmission.sjtu.edu.cn/TransPHLA-AOMP/index.html
+# TransPed-Mutant: Automatically optimize mutated peptide program from the Transformer-derived self-attention model to predict peptide and HLA binding
 
 ### 1. All software dependencies and oprating system:
 The dependencies is the pytorch environment on linux system, the operating system is CentOS Linux release 7.7.1908.
